@@ -72,5 +72,5 @@ int main() {
    printf("PIB: %f reais\n", PIB2);
    printf("Quantidade de pontos turísticos: %d\n", pontosturisticos2);
 
-return 0;
+return 0; // para indicar que o programa terminou com retorno de 0
     }
