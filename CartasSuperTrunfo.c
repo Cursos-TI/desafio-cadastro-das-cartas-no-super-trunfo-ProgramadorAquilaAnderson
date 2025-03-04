@@ -31,8 +31,8 @@ int main() {
    printf("Digite quantos pontos turístico tem nessa cidade: ");
    scanf("%d", &pontosturisticos1);
    
-   printf("Digite o nome de outro estado: "); // função de saída com instruções para o usuário de forma clara.
-   scanf("%s", &estado2); // função de entrada de dados informados pelo usuário.
+   printf("Digite o nome de outro estado: "); 
+   scanf("%s", &estado2); 
    
    printf("Digite o código desse estado. Ex: A01 ou A02: ");
    scanf("%s", &codigoestado2);
