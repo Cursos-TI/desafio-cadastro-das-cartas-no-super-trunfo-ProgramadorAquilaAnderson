@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(){
 
    printf("***DESAFIO CARTAS SUPER TRUNFO***");
 
@@ -65,7 +65,7 @@ int main() {
    printf("Digite o número da população dessa cidade: ");
    scanf("%f", &populacao2);
    
-   printf("Digie o tamanho da área dessa cidade em km²: ");
+   printf("Digite o tamanho da área dessa cidade em km²: ");
    scanf("%f", &area2);
   
    printf("Digite o valor aproximado do PIB dessa cidade em R$: ");
