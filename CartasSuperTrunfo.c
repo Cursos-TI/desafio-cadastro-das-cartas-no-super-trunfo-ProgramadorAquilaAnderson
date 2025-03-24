@@ -90,4 +90,6 @@ int main(){
    printf("PIB per Capita é: %.2f bilhões de reais \n", PIBpercapita2);
 
    return 0; //para indicar que o programa terminou com retorno de 0
+
+
    }
