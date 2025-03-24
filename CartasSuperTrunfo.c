@@ -2,7 +2,7 @@
 
 int main(){
 
-   printf("***DESAFIO CARTAS SUPER TRUNFO***");
+   printf("***DESAFIO CARTAS SUPER TRUNFO***\n\n");
 
    // Declarando as variáveis com os dados das cartas.
 
@@ -28,7 +28,7 @@ int main(){
    printf("Digite o número da população dessa cidade: ");
    scanf("%f", &populacao1);
    
-   printf("Digie o tamanho da área dessa cidade em km²: ");
+   printf("Digite o tamanho da área dessa cidade em km²: ");
    scanf("%f", &area1);
   
    printf("Digite o valor aproximado do PIB dessa cidade em R$: ");
